@@ -4,7 +4,7 @@
 ## About the project
 The project is about building a ME (Maze Solver) application using Java language.
 The ME solver is a 2D grid with a starting and ending point, and the goal is to find the shortest possible path between them.
-The grid will have different colored blocks, white blocks represent obstacles, and black blocks are the ones through which the path can go.
+The grid will have different colored blocks, white blocks are the ones through which the path can go , and black blocks are the obstracles .
 The project will have a business logic algorithm responsible for finding the path.
 The GUI of the application will be built after the business logic.
 
